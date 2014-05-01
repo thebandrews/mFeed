@@ -1,0 +1,10 @@
+{
+  "name": "mFeed",
+  "version": "0.0.0",
+  "description": "mFeed",
+  "main": "server.js",
+  "author": {
+    "name": "beandrew",
+    "email": ""
+  }
+}
